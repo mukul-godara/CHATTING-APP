@@ -42,6 +42,7 @@ npm install
 ```
 4.Create a Firebase project and set up the necessary configurations.
 <br>
+
 -Visit the Firebase Console and create a new project.<br>
 
 -Enable the Firebase Authentication service and choose the desired authentication methods (e.g., email/password, Google sign-in).<br>
@@ -50,7 +51,9 @@ npm install
 
 -Obtain the Firebase configuration settings (API keys, database URL) for your project.<br>
 
+
 5.Update the firebase configuration setting<br>
+
 
 6.Run this command to run the application in your local machine
 ```
