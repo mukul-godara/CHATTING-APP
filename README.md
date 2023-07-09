@@ -1,7 +1,7 @@
 # CHATTING-APP
 # Chatting Engine App
 
-This is a README file for the Chatting Engine app built using React and Firebase. The app allows users to engage in real-time chat conversations, creating rooms, and exchanging messages. It leverages the React library for the frontend and Firebase for the backend infrastructure.
+This is a  Chatting Engine app built using React and Firebase. The app allows users to engage in real-time chat conversations, creating rooms, and exchanging messages. It leverages the React library for the frontend and Firebase for the backend infrastructure.
 
 ## Features
 
